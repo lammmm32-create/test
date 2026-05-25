@@ -22,67 +22,83 @@ const TYPES={
   TORL:{name:"필드 위의 장군",en:"FIELD GENERAL",emoji:"⚽",color1:"#1565C0",color2:"#42A5F5",
     tagline:"작전은 내가 짠다. 뛰는 것도 내가 뛴다.",
     desc:"사람들이랑 같이 뛰면서 판을 읽고 전략 짜는 게 너한테 딱인 스타일. 축구나 농구 같은 팀 스포츠 한번 해봐, 경기장에서 지휘하는 순간 소름 돋을 거야.",
-    sports:["축구 ⚽","농구 🏀","배구 🏐","야구 ⚾"],hashTag:"#필드위의장군 #팀플고트"},
+    sports:["축구 ⚽","농구 🏀","배구 🏐","야구 ⚾"],hashTag:"#필드위의장군 #팀플고트",
+    affiliate:{name:"축구공",link:"https://link.coupang.com/a/d2KVfx0fqC"}},
   TORP:{name:"페이스메이커",en:"PACEMAKER",emoji:"🏃",color1:"#00838F",color2:"#26C6DA",
     tagline:"옆에서 '한 바퀴만 더' 해주는 사람, 그게 나야",
     desc:"혼자 하면 금방 질리는데 누군가랑 같이 묵묵히 달리면 끝까지 가는 타입. 러닝크루 한번 들어가 봐, 같이 뛰는 에너지가 너한테 최고의 연료야.",
-    sports:["러닝크루 🏃","조정 🚣","그룹사이클 🚴"],hashTag:"#페이스메이커 #같이뛰자"},
+    sports:["러닝크루 🏃","조정 🚣","그룹사이클 🚴"],hashTag:"#페이스메이커 #같이뛰자",
+    affiliate:{name:"러닝용품",link:"https://link.coupang.com/a/d2K0dwG5eK"}},
   TOFL:{name:"바람 따라 사는",en:"WIND CHASER",emoji:"🏄",color1:"#00ACC1",color2:"#4DD0E1",
     tagline:"파도가 부르면 가야지. 계획은 자연이 세워줌",
     desc:"틀에 갇히는 거 싫고, 자연 속에서 친구들이랑 새로운 거 도전하는 게 너의 에너지원. 서핑이나 스노보드 한번 타봐, 파도 앞에 서는 순간 인생 운동 만날 거야.",
-    sports:["서핑 🏄","스노보드 🏂","래프팅 🚣","윈드서핑 🌊"],hashTag:"#바람따라사는 #자연이경기장"},
+    sports:["서핑 🏄","스노보드 🏂","래프팅 🚣","윈드서핑 🌊"],hashTag:"#바람따라사는 #자연이경기장",
+    affiliate:{name:"선스틱",link:"https://link.coupang.com/a/d2K2lNpOQC"}},
   TOFP:{name:"놀이터 대장",en:"PLAYGROUND BOSS",emoji:"🥏",color1:"#F9A825",color2:"#FFD54F",
     tagline:"규칙? 느슨하게. 장소? 아무 데나. 재밌으면 됐지",
     desc:"운동이라고 하면 무겁게 느끼는 너, 사실 놀면서 하는 게 제일 잘 맞아. 친구들이랑 프리스비나 족구 한번 해봐, 놀다 보면 어느새 땀 흠뻑이야.",
-    sports:["프리스비 🥏","비치발리볼 🏖️","족구 ⚽","캐치볼 🥎"],hashTag:"#놀이터대장 #운동이놀이"},
+    sports:["프리스비 🥏","비치발리볼 🏖️","족구 ⚽","캐치볼 🥎"],hashTag:"#놀이터대장 #운동이놀이",
+    affiliate:{name:"선스틱",link:"https://link.coupang.com/a/d2K2lNpOQC"}},
   TIRL:{name:"안무 1열 센터",en:"CENTER STAGE",emoji:"💃",color1:"#AD1457",color2:"#F06292",
     tagline:"거울 앞 1열, 음악이 시작되면 본능이 깨어남",
     desc:"음악 틀면 몸이 먼저 반응하는 너, 리듬 따라 움직이면서 동작 맞춰가는 재미를 알면 못 빠져나와. 줌바나 그룹댄스 한번 가봐, 거울 속 내 모습에 동결건조 하고 싶어질 거야.",
-    sports:["줌바 🕺","그룹댄스 💃","에어로빅 🎶","리듬복싱 🥊"],hashTag:"#1열센터 #리듬본능"},
+    sports:["줌바 🕺","그룹댄스 💃","에어로빅 🎶","리듬복싱 🥊"],hashTag:"#1열센터 #리듬본능",
+    affiliate:{name:"조거팬츠",link:"https://link.coupang.com/a/d2K7xLetBA"}},
   TIRP:{name:"불꽃 체력전",en:"FIRE POWER",emoji:"🔥",color1:"#E65100",color2:"#FF8A65",
     tagline:"옆 사람이 포기할 때, 한 세트 더 하는 사람",
     desc:"그룹 에너지 속에서 한계까지 밀어붙이는 쾌감이 너한테 딱인 자극. 크로스핏이나 스피닝 한번 가봐, 옆 사람이랑 같이 죽을 듯 뛰고 나면 세상 뿌듯할 거야.",
-    sports:["크로스핏 💥","스피닝 🚲","부트캠프 🎖️","F45 🔥"],hashTag:"#불꽃체력전 #한계돌파"},
+    sports:["크로스핏 💥","스피닝 🚲","부트캠프 🎖️","F45 🔥"],hashTag:"#불꽃체력전 #한계돌파",
+    affiliate:{name:"운동용품",link:"https://link.coupang.com/a/d2K96vgaCy"}},
   TIFL:{name:"아티스트 댄서",en:"ARTIST DANCER",emoji:"🩰",color1:"#6A1B9A",color2:"#CE93D8",
     tagline:"몸으로 대화하는 법을 아는 사람",
     desc:"새로운 기술 배우는 거 좋아하고, 사람과 호흡 맞추는 게 즐거운 너한테 파트너 댄스가 찰떡. 살사나 탱고 한번 배워봐, 움직임으로 대화하는 그 느낌에 빠질 거야.",
-    sports:["살사 💃","탱고 🌹","아크로요가 🤸","파트너댄스 🩰"],hashTag:"#아티스트댄서 #몸의언어"},
+    sports:["살사 💃","탱고 🌹","아크로요가 🤸","파트너댄스 🩰"],hashTag:"#아티스트댄서 #몸의언어",
+    affiliate:{name:"조거팬츠",link:"https://link.coupang.com/a/d2K7xLetBA"}},
   TIFP:{name:"나와 같이 걸을래",en:"WALK WITH ME",emoji:"🌿",color1:"#2E7D32",color2:"#81C784",
     tagline:"거창한 운동 말고, 옆에 사람이 있으면 충분해",
     desc:"격한 운동은 부담인데 혼자 있는 것도 심심한 너, 사실 같이 걷는 것만으로도 충분해. 산책 모임이나 하이킹 한번 나가봐, 대화하면서 걷다 보면 그게 최고의 운동이야.",
-    sports:["그룹하이킹 🥾","함께산책 🚶","캐주얼러닝 🌤️"],hashTag:"#같이걸을래 #걷는게운동"},
+    sports:["그룹하이킹 🥾","함께산책 🚶","캐주얼러닝 🌤️"],hashTag:"#같이걸을래 #걷는게운동",
+    affiliate:{name:"워킹화",link:"https://link.coupang.com/a/d2LdcRfurk"}},
   SORL:{name:"고요한 승부사",en:"SILENT STRIKER",emoji:"🎯",color1:"#37474F",color2:"#78909C",
     tagline:"조용히, 정확히, 한 번에. 그게 스타일",
     desc:"시끄러운 거 싫고 혼자 집중하는 게 좋은 너, 정밀한 한 방에 승부 거는 운동이 딱. 골프나 양궁 한번 해봐, 고요한 집중 끝에 정확히 맞추는 그 쾌감이 미쳐.",
-    sports:["골프 ⛳","양궁 🏹","사격 🎯","당구 🎱"],hashTag:"#고요한승부사 #한발의미학"},
+    sports:["골프 ⛳","양궁 🏹","사격 🎯","당구 🎱"],hashTag:"#고요한승부사 #한발의미학",
+    affiliate:{name:"워킹화",link:"https://link.coupang.com/a/d2LdcRfurk"}},
   SORP:{name:"데이터 러너",en:"DATA RUNNER",emoji:"📊",color1:"#0277BD",color2:"#4FC3F7",
     tagline:"오늘 심박수 구간 3에서 42분 유지 (뿌듯)",
     desc:"숫자로 성장이 보여야 동기부여 되는 너한테 기록형 운동이 찰떡. 혼자 로잉머신이나 사이클 타면서 데이터 쌓아봐, 그래프 올라가는 거 보면 못 멈춰.",
-    sports:["실내사이클 🚴","로잉머신 🚣","수영(기록형) 🏊"],hashTag:"#데이터러너 #기록이증명"},
+    sports:["실내사이클 🚴","로잉머신 🚣","수영(기록형) 🏊"],hashTag:"#데이터러너 #기록이증명",
+    affiliate:{name:"스마트워치",link:"https://link.coupang.com/a/d2LfVoN30e"}},
   SOFL:{name:"익스플로러",en:"EXPLORER",emoji:"🧗",color1:"#4527A0",color2:"#7E57C2",
     tagline:"루트를 읽고, 벽을 잡고, 끝까지 혼자 올라간다",
     desc:"매번 같은 건 지루하고 혼자 새로운 도전하는 게 좋은 너, 클라이밍 한번 가봐. 매번 다른 루트를 읽고 공략하는 그 몰입감이 너한테 인생 운동 될 거야.",
-    sports:["클라이밍 🧗","볼더링 🪨","산악자전거 🚵","트레일러닝 🌲"],hashTag:"#익스플로러 #나만의루트"},
+    sports:["클라이밍 🧗","볼더링 🪨","산악자전거 🚵","트레일러닝 🌲"],hashTag:"#익스플로러 #나만의루트",
+    affiliate:{name:"손목아대",link:"https://link.coupang.com/a/d2LhfyxO9Y"}},
   SOFP:{name:"자연에 살으리랏다",en:"NATURE BOUND",emoji:"⛰️",color1:"#1B5E20",color2:"#4CAF50",
     tagline:"산이 부르면 가고, 물이 부르면 떠남",
     desc:"실내보다 밖이 좋고, 복잡한 규칙보다 자연 속에서 단순하게 움직이는 게 맞는 타입. 등산이나 트레킹 한번 해봐, 정상에서 보는 풍경 하나면 다음 주 산도 정해져 있을 거야.",
-    sports:["등산 ⛰️","트레킹 🥾","카약 🛶","낚시 🎣"],hashTag:"#자연에살으리랏다 #산이부른다"},
+    sports:["등산 ⛰️","트레킹 🥾","카약 🛶","낚시 🎣"],hashTag:"#자연에살으리랏다 #산이부른다",
+    affiliate:{name:"등산바지",link:"https://link.coupang.com/a/d2LiB5v6Dk"}},
   SIRL:{name:"호흡의 장인",en:"BREATH MASTER",emoji:"🧘",color1:"#7B1FA2",color2:"#BA68C8",
     tagline:"숨 하나로 몸과 마음을 정렬하는 수련가",
     desc:"나에게 오롯이 집중하는 시간이 필요한 너, 요가나 필라테스가 딱이야. 호흡 하나하나에 집중하다 보면 몸도 마음도 정렬되는 느낌, 한번 경험하면 루틴이 될 거야.",
-    sports:["요가 🧘","필라테스 💫","바레 🩰","태극권 ☯️"],hashTag:"#호흡의장인 #이너피스"},
+    sports:["요가 🧘","필라테스 💫","바레 🩰","태극권 ☯️"],hashTag:"#호흡의장인 #이너피스",
+    affiliate:{name:"요가매트",link:"https://link.coupang.com/a/d2LkxoIIkC"}},
   SIRP:{name:"거울 앞 조각가",en:"BODY SCULPTOR",emoji:"💪",color1:"#33691E",color2:"#7CB342",
     tagline:"매일 한 겹씩, 내 몸이라는 작품을 쌓는 중",
     desc:"눈에 보이는 변화가 최고의 동기부여인 너, 웨이트 한번 시작해봐. 매일 조금씩 무게 올라가고 거울 속 내 몸이 달라지는 거 보면, 오운완 스토리 안 올릴 수가 없을 거야.",
-    sports:["웨이트 🏋️","파워리프팅 🦾","바디빌딩 💪","캘리스테닉스 🤸"],hashTag:"#거울앞조각가 #오운완"},
+    sports:["웨이트 🏋️","파워리프팅 🦾","바디빌딩 💪","캘리스테닉스 🤸"],hashTag:"#거울앞조각가 #오운완",
+    affiliate:{name:"가정용 덤벨",link:"https://link.coupang.com/a/d2LlJkACyq"}},
   SIFL:{name:"무림 고수",en:"URBAN NINJA",emoji:"🥷",color1:"#263238",color2:"#546E7A",
     tagline:"벽을 보면 넘고 싶고, 난간을 보면 올라가야 함",
     desc:"내 몸 하나로 자유자재로 움직이는 게 꿈인 너, 파쿠르나 체조 한번 해봐. 기술 하나씩 익힐 때마다 몸이 새로운 언어를 배우는 느낌, 도시 전체가 너의 수련장이 될 거야.",
-    sports:["파쿠르 🤸","체조 🏅","프리스타일댄스 🕺","카포에라 🥋"],hashTag:"#무림고수 #도시가수련장"},
+    sports:["파쿠르 🤸","체조 🏅","프리스타일댄스 🕺","카포에라 🥋"],hashTag:"#무림고수 #도시가수련장",
+    affiliate:{name:"보호대",link:"https://link.coupang.com/a/d2LniPNNIq"}},
   SIFP:{name:"난 내 갈 길을 간다",en:"MY OWN PACE",emoji:"🚶",color1:"#546E7A",color2:"#90A4AE",
     tagline:"세상이 빨라도 나는 내 속도로 간다",
     desc:"남들 페이스에 맞추는 거 싫고 내 기분 따라 움직이고 싶은 너, 그게 다 맞아. 오늘은 산책, 내일은 홈트, 모레는 조깅 — 내 속도가 정답이야. 부담 없이 시작하면 그게 운동이야.",
-    sports:["산책 🚶","홈트 🏠","조깅 🌤️","스트레칭 🧘‍♂️"],hashTag:"#내갈길을간다 #내속도가정답"},
+    sports:["산책 🚶","홈트 🏠","조깅 🌤️","스트레칭 🧘‍♂️"],hashTag:"#내갈길을간다 #내속도가정답",
+    affiliate:{name:"폼롤러",link:"https://link.coupang.com/a/d2LokHp2Ci"}},
 };
 
 const AXIS_META=[
@@ -113,7 +129,6 @@ function Confetti({c1,c2}){
 }
 
 function BellCurve({value,color,lCode,rCode,lLabel,rLabel}){
-  // value: negative=left, positive=right, range roughly -6 to +6
   const pct=Math.min(Math.max(((value+6)/12)*100,8),92);
   const lPct=Math.round(Math.min(Math.max(50-(value/6)*50,5),95));
   const rPct=100-lPct;
@@ -217,6 +232,9 @@ export default function App(){
         .sdot{border-radius:50%;position:relative;z-index:1;cursor:pointer;transition:all 0.2s cubic-bezier(0.4,0,0.2,1);-webkit-tap-highlight-color:transparent;flex-shrink:0}
         .sdot:hover{transform:scale(1.15)}
         .sdot:active{transform:scale(0.9)}
+        .aff-btn{display:block;text-align:center;text-decoration:none;transition:all 0.2s ease}
+        .aff-btn:hover{transform:translateY(-2px)}
+        .aff-btn:active{transform:scale(0.97)}
       `}</style>
       <div style={{maxWidth:440,margin:"0 auto",padding:"20px 20px 40px",minHeight:"100vh",display:"flex",flexDirection:"column"}}>
 
@@ -245,7 +263,7 @@ export default function App(){
           </div>
         )}
 
-        {/* QUIZ — Left-Right Spectrum (Option B) */}
+        {/* QUIZ */}
         {phase==="quiz"&&(()=>{
           const cq=QUESTIONS[qi];
           const dots=[{val:-2,sz:30},{val:-1,sz:24},{val:0,sz:18},{val:1,sz:24},{val:2,sz:30}];
@@ -266,48 +284,33 @@ export default function App(){
                   <span style={{fontSize:42,display:"block",marginBottom:12}}>{cq.icon}</span>
                   <h2 style={{fontSize:20,fontWeight:800,lineHeight:1.45,margin:0,wordBreak:"keep-all"}}>{cq.q}</h2>
                 </div>
-
-                {/* LEFT-RIGHT SPECTRUM */}
                 <div style={{display:"flex",alignItems:"stretch",borderRadius:16,overflow:"hidden",border:"1px solid rgba(255,255,255,0.08)"}}>
-                  {/* Left option */}
                   <div style={{flex:1,padding:"16px 12px",display:"flex",alignItems:"center",justifyContent:"center",textAlign:"center",
                     fontSize:13.5,lineHeight:1.45,wordBreak:"keep-all",transition:"all 0.3s ease",
                     background:picked!==null&&picked<0?"rgba(255,107,53,0.1)":"rgba(255,255,255,0.03)",
                     color:picked!==null&&picked<0?"#FF6B35":picked!==null&&picked>0?"rgba(255,255,255,0.2)":"rgba(255,255,255,0.75)",
-                    fontWeight:picked!==null&&picked<0?700:500,
-                    borderRight:"1px solid rgba(255,255,255,0.06)"}}>
+                    fontWeight:picked!==null&&picked<0?700:500,borderRight:"1px solid rgba(255,255,255,0.06)"}}>
                     {cq.left}
                   </div>
-
-                  {/* Dots */}
                   <div style={{display:"flex",alignItems:"center",gap:7,padding:"18px 12px",background:"rgba(255,255,255,0.015)",position:"relative"}}>
                     <div style={{position:"absolute",left:16,right:16,top:"50%",height:2,background:"rgba(255,255,255,0.06)",transform:"translateY(-50%)"}}/>
                     {dots.map((d,i)=>{
-                      const isP=picked===d.val;
-                      const isDim=picked!==null&&!isP;
-                      const isCenter=d.val===0;
-                      return(
-                        <div key={i} className="sdot" onClick={()=>pickVal(d.val)} style={{
-                          width:isP?d.sz+6:d.sz,height:isP?d.sz+6:d.sz,
-                          background:isP?"#FF6B35":isCenter?"rgba(255,255,255,0.06)":"rgba(255,255,255,0.04)",
-                          border:isP?"3px solid rgba(255,255,255,0.9)":isCenter?"2px solid rgba(255,255,255,0.1)":`2px solid rgba(255,255,255,${0.06+Math.abs(d.val)*0.03})`,
-                          boxShadow:isP?"0 0 16px rgba(255,107,53,0.5)":"none",
-                          opacity:isDim?0.2:1,
-                          display:"flex",alignItems:"center",justifyContent:"center",
-                        }}>
-                          {isP&&<div style={{width:5,height:5,borderRadius:"50%",background:"#fff"}}/>}
-                        </div>
-                      );
+                      const isP=picked===d.val;const isDim=picked!==null&&!isP;const isCenter=d.val===0;
+                      return(<div key={i} className="sdot" onClick={()=>pickVal(d.val)} style={{
+                        width:isP?d.sz+6:d.sz,height:isP?d.sz+6:d.sz,
+                        background:isP?"#FF6B35":isCenter?"rgba(255,255,255,0.06)":"rgba(255,255,255,0.04)",
+                        border:isP?"3px solid rgba(255,255,255,0.9)":isCenter?"2px solid rgba(255,255,255,0.1)":`2px solid rgba(255,255,255,${0.06+Math.abs(d.val)*0.03})`,
+                        boxShadow:isP?"0 0 16px rgba(255,107,53,0.5)":"none",opacity:isDim?0.2:1,
+                        display:"flex",alignItems:"center",justifyContent:"center"}}>
+                        {isP&&<div style={{width:5,height:5,borderRadius:"50%",background:"#fff"}}/>}
+                      </div>);
                     })}
                   </div>
-
-                  {/* Right option */}
                   <div style={{flex:1,padding:"16px 12px",display:"flex",alignItems:"center",justifyContent:"center",textAlign:"center",
                     fontSize:13.5,lineHeight:1.45,wordBreak:"keep-all",transition:"all 0.3s ease",
                     background:picked!==null&&picked>0?"rgba(255,107,53,0.1)":"rgba(255,255,255,0.03)",
                     color:picked!==null&&picked>0?"#FF6B35":picked!==null&&picked<0?"rgba(255,255,255,0.2)":"rgba(255,255,255,0.75)",
-                    fontWeight:picked!==null&&picked>0?700:500,
-                    borderLeft:"1px solid rgba(255,255,255,0.06)"}}>
+                    fontWeight:picked!==null&&picked>0?700:500,borderLeft:"1px solid rgba(255,255,255,0.06)"}}>
                     {cq.right}
                   </div>
                 </div>
@@ -340,7 +343,7 @@ export default function App(){
                   {result.name}</h2>
                 <p style={{fontSize:14,color:"rgba(255,255,255,0.45)",margin:"0 0 24px",fontWeight:500}}>"{result.tagline}"</p>
 
-                {/* Bell Curve Axis Analysis */}
+                {/* Bell Curve */}
                 <div style={{background:"rgba(0,0,0,0.3)",borderRadius:16,padding:"20px 18px 8px",marginBottom:16,border:"1px solid rgba(255,255,255,0.04)"}}>
                   <p style={{fontSize:11,color:"rgba(255,255,255,0.25)",fontWeight:700,margin:"0 0 16px",letterSpacing:"1.5px",textAlign:"center"}}>성향 분석</p>
                   {AXIS_META.map(ax=>(
@@ -357,6 +360,7 @@ export default function App(){
 
                 <p style={{fontSize:13.5,lineHeight:1.75,color:"rgba(255,255,255,0.55)",margin:"0 0 20px",textAlign:"left",wordBreak:"keep-all"}}>{result.desc}</p>
 
+                {/* Sports */}
                 <div style={{background:"rgba(255,255,255,0.02)",borderRadius:14,padding:"16px",border:"1px solid rgba(255,255,255,0.05)",marginBottom:12}}>
                   <p style={{fontSize:11,color:"rgba(255,255,255,0.3)",fontWeight:700,margin:"0 0 10px",letterSpacing:"1px"}}>이런 운동 해봐!</p>
                   <div style={{display:"flex",flexWrap:"wrap",gap:7,justifyContent:"center"}}>
@@ -365,17 +369,32 @@ export default function App(){
                       animation:`fadeUp 0.35s ease ${0.08*i}s both`}}>{s}</span>))}
                   </div>
                 </div>
+
+                {/* Affiliate Product */}
+                {result.affiliate&&(
+                  <a href={result.affiliate.link} target="_blank" rel="noopener noreferrer" className="aff-btn"
+                    style={{marginTop:4,padding:"14px 20px",borderRadius:14,
+                      background:`linear-gradient(135deg,${result.color1}18,${result.color2}12)`,
+                      border:`1px solid ${result.color1}30`,textDecoration:"none"}}>
+                    <p style={{fontSize:11,color:"rgba(255,255,255,0.35)",fontWeight:600,margin:"0 0 6px",letterSpacing:"0.5px"}}>이 운동 시작하려면?</p>
+                    <p style={{fontSize:15,color:"rgba(255,255,255,0.85)",fontWeight:700,margin:0}}>
+                      👉 {result.affiliate.name} 보러가기
+                    </p>
+                  </a>
+                )}
+
                 <p style={{fontSize:12,color:result.color1,opacity:0.5,marginTop:16,marginBottom:0,fontWeight:600}}>{result.hashTag}</p>
               </div>
             </div>
 
+            {/* Share */}
             <div style={{textAlign:"center",animation:"slideUp 0.5s ease 0.25s both"}}>
               <p style={{fontSize:13,color:"rgba(255,255,255,0.35)",margin:"0 0 14px"}}>결과를 캡쳐해서 스토리에 공유해보세요!</p>
               <div style={{display:"flex",gap:10,justifyContent:"center"}}>
                 <button onClick={restart} style={{padding:"13px 24px",borderRadius:50,border:"1px solid rgba(255,255,255,0.12)",
                   background:"rgba(255,255,255,0.04)",color:"rgba(255,255,255,0.6)",fontSize:13,fontWeight:700,cursor:"pointer",fontFamily:"inherit"}}>다시 하기</button>
                 <button onClick={()=>{
-                  const t=`[나의 운동 유형] ${code}\n${result.name} ${result.emoji}\n"${result.tagline}"\n\n추천 운동: ${result.sports.join(", ")}\n\n나에게 맞는 운동을 찾아보세요!`;
+                  const t=`[나의 운동 유형] ${code}\n${result.name} ${result.emoji}\n"${result.tagline}"\n\n추천 운동: ${result.sports.join(", ")}\n\n나에게 맞는 운동을 찾아보세요!\nhttps://test-lime-tau-53.vercel.app`;
                   if(navigator.share)navigator.share({title:"운동 유형 테스트",text:t});
                   else{navigator.clipboard.writeText(t);alert("결과가 복사되었어요! 📋");}
                 }} style={{padding:"13px 24px",borderRadius:50,border:"none",background:`linear-gradient(135deg,${result.color1},${result.color2})`,
@@ -383,6 +402,7 @@ export default function App(){
               </div>
             </div>
 
+            {/* All 16 types */}
             <div style={{marginTop:8,animation:"slideUp 0.5s ease 0.4s both"}}>
               <p style={{fontSize:11,color:"rgba(255,255,255,0.2)",textAlign:"center",margin:"0 0 10px",fontWeight:600,letterSpacing:"1px"}}>전체 16유형</p>
               <div style={{display:"grid",gridTemplateColumns:"repeat(4,1fr)",gap:6}}>
@@ -394,6 +414,11 @@ export default function App(){
                 </div>))}
               </div>
             </div>
+
+            {/* Disclosure */}
+            <p style={{fontSize:10,color:"rgba(255,255,255,0.15)",textAlign:"center",marginTop:16,lineHeight:1.5}}>
+              이 페이지는 쿠팡 파트너스 활동의 일환으로,{"\n"}이에 따른 일정액의 수수료를 제공받을 수 있습니다.
+            </p>
           </div>
         )}
       </div>
